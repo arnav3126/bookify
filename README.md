@@ -1,4 +1,4 @@
-# Online Bookstore System
+# Bookify - Online Bookstore System
 
 A full-stack online bookstore application built with Flask (Backend) and Django (Frontend).
 
